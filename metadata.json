@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Smart Editor",
+  "description": "An AI-powered writing assistant with Academic and Novel modes, featuring autocomplete, rewriting, feedback, and voice control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
