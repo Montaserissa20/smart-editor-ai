@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Text Editor (Gemini-powered)
 
-# Run and deploy your AI Studio app
+An online text editor that helps you **write, improve, complete, and rate** your content using AI.  
+It supports different writing styles (academic, novels, etc.) and provides smart suggestions to enhance clarity, structure, and quality.
 
-This contains everything you need to run your app locally.
+## Features
+- ✍️ **Write online** in a clean editor
+- 🤖 **AI completion**: continue your text naturally
+- ✨ **Improve / Rewrite**: make text clearer, more formal, shorter, or more engaging
+- 🧠 **Rate my work**: get a rubric-based score (e.g., clarity, structure, grammar) with actionable feedback
+- 📄 **Document input**: upload/insert a document and apply the same AI actions to it (review, rewrite, summarize, improve)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Zf-E2x-VfHy4GSfX1SxYqtCApG9SurFp
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Etik Bildirimi (Zorunlu)
+Bu proje, Samsun Üniversitesi Yazılım Mühendisliği Bölümü "Yazılım Gerçekleşme ve Test" dersi kapsamında Nurettin Şenyer ve Ömer Durmuş rehberliğinde yapılmıştır.
